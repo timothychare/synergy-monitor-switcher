@@ -43,3 +43,7 @@ python Synergy-monitor-switcher.py --config path\to\other.json
 Set `"echo_log": true` in the config to print every Synergy log line, which helps with debugging.
 If the mouse moves to a screen that isn't in `screens`, the script prints a warning so you
 know which name to add.
+
+## License
+
+MIT - see [LICENSE](LICENSE).
