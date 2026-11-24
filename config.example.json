@@ -1,0 +1,10 @@
+{
+  "control_my_monitor_path": "%USERPROFILE%/Documents/controlmymonitor/ControlMyMonitor.exe",
+  "synergy_log_path": "C:/ProgramData/Synergy/synergy-daemon.log",
+  "primary_monitor": "Primary",
+  "echo_log": false,
+  "screens": {
+    "my-desktop": { "Primary": 17, "MONITOR2_ID": 17 },
+    "my-laptop":  { "Primary": 15, "MONITOR2_ID": 15 }
+  }
+}
